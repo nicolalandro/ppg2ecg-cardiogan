@@ -2,7 +2,10 @@
 <img src="./images/ppg2ecg_fast.gif" width=100% /> 
 </p>
 
-### CardioGAN: Attentive Generative Adversarial Network with Dual Discriminators for Synthesis of ECG from PPG
+# CardioGAN: Attentive Generative Adversarial Network with Dual Discriminators for Synthesis of ECG from PPG
+
+Replicated result
+![img](codes/test.png)
 
 ## How to run
 * [link to download weights](https://github.com/pritamqu/ppg2ecg-cardiogan/releases/download/model_weights/cardiogan_ppg2ecg_generator.zip)
