@@ -1,0 +1,5 @@
+services:
+  py:
+    build: .
+    volumes:
+      - .:/code:Z

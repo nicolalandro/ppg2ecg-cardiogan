@@ -1,0 +1,14 @@
+numpy
+scikit-learn
+opencv-python
+biosppy
+
+tensorflow
+tensorflow-addons
+keras<=2.12
+tflib
+tf2onnx
+onnx
+
+matplotlib
+tk
